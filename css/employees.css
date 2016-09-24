@@ -1,0 +1,16 @@
+.back button
+{
+	display: inline-block;
+	font-size: 13px
+	vertical-align: bottom;	
+	padding: -10px 25px;
+	width: 75px;
+	height: 50px;
+	font-weight: bold;
+	
+}
+
+ul
+{
+	list-style-type: none;
+}

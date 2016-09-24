@@ -1,0 +1,47 @@
+div.navigation li
+{
+	display: inline-block;
+	font-size: 13px
+	vertical-align: bottom;
+	font-weight: bold;	
+	padding: 15px 25px;
+	
+}
+div
+{
+	display: block;
+}
+ul
+{
+	display: block;
+}
+div.navigation
+{
+	height: 50px;
+	text-align: center;
+	background-color: blue;
+	font-weight: bold;
+}
+div.navigation li.img
+{
+	float: right;
+}
+a
+{
+	color: #222;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+
+.about button:hover
+{
+	
+}
+
+.about button
+{
+	border-color: solid 5px black;
+}
+
