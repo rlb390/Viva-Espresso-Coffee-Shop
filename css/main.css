@@ -20,7 +20,7 @@ div.navigation
 	height: 50px;
 	text-align: center;
 	background-color: blue;
-	font-weight: bold;
+	
 }
 div.navigation li.img
 {
@@ -30,7 +30,6 @@ a
 {
 	color: #222;
 	text-decoration: none;
-	font-weight: bold;
 
 
 }
